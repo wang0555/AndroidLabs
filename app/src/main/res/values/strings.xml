@@ -2,4 +2,22 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\'m button!</string>
+<<<<<<< Updated upstream
+=======
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_items">ListItemsActivity</string>
+
+    <string name="login_name">Login Name</string>
+    <string name="password">Password</string>
+    <string name="Password">.......</string>
+    <string name="enable_something">Enable Something</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="login_button">Login Button</string>
+    <string name="dialog_message">Message...</string>
+    <string name="dialog_title">MessageTitle</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+>>>>>>> Stashed changes
 </resources>
