@@ -2,8 +2,7 @@
     <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\'m button!</string>
-<<<<<<< Updated upstream
-=======
+
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_items">ListItemsActivity</string>
 
@@ -19,5 +18,4 @@
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
 
->>>>>>> Stashed changes
 </resources>
