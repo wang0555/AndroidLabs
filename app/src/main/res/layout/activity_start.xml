@@ -8,7 +8,8 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.jie.androidlabs.StartActivity">
+    tools:context="com.example.jie.androidlabs.StartActivity"
+    tools:ignore="ExtraText">
 
     <TextView
         android:layout_width="wrap_content"
@@ -25,5 +26,15 @@
         android:layout_marginStart="23dp"
         android:layout_marginTop="48dp"
         android:id="@+id/startbutton"
-        android:onClick="buttonClick" />/>
+        android:onClick="buttonClick" />
+
+    <Button
+        android:text="@string/StartChartButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/StartChartButton"
+        android:layout_below="@+id/startbutton"
+        android:layout_alignStart="@+id/startbutton"
+        android:layout_marginTop="49dp" />
+    />
 </RelativeLayout>
